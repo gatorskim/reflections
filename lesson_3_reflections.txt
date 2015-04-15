@@ -1,1 +1,5 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	There could be conflicts if I let Git pull from remote automatically.
+
 
